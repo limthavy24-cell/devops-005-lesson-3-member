@@ -1,0 +1,1 @@
+A commit records changes in the Git repository.
